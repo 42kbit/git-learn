@@ -1,0 +1,6 @@
+#include "sum.h"
+
+int32_t sum(int32_t first, int32_t second)
+{
+	return first + second;
+}
